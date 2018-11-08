@@ -1,6 +1,8 @@
 # Red-Wine-Quality-Data-Analysis-with-R
 by Thiago Machado
 
+This project was submitted as a part of the Data Analyst Nanodegree program of Udacity
+
 INTRODUCTION
 
 This exploration takes the Red Wine Quality data set and analysis some aspects of it.
